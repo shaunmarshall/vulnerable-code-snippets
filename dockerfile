@@ -1,5 +1,5 @@
 #Remove vulnerable packages.
-FROM httpd:2.4.55
+FROM httpd:2.4.56
 
 #USER root
 
